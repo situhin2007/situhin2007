@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siful Islam</h1>
 
-Experienced software engineer proficient in JavaScript, PHP, and Java, seeking to contribute technical 
-expertise and collaborative problem-solving skills to a dynamic team for the development of innovative software 
-solutions. 
+Detail-oriented and results-driven Software Quality Assurance (SQA) Engineer with experiences in manual and automation testing of complex enterprise applications, including ERP, CRM, and call center systems. Proven track record in identifying and resolving software defects through meticulous test design, regression analysis, exploratory testing, and cross-functional collaboration.
 
 ![](https://komarev.com/ghpvc/?username=situhin2007&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
 
